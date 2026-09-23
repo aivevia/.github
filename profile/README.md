@@ -17,3 +17,11 @@ Integriamo intelligenza artificiale, automazioni e tecnologie web per trasformar
 🌐 https://aivevia.com/
 
 💼 https://www.linkedin.com/company/aivevia/
+## Our latest project: AIVEVIA
+
+Discover how we developed our multilingual website to present our web development, software, AI and automation services.
+
+Available in Italian, English and Spanish.
+
+🌐 Read the full case study:
+https://aivevia.com/caso-studio-aivevia.html
